@@ -1,0 +1,45 @@
+---
+title: "Shaikh (Ibrahim) Noman"
+image: "Shaikh_Noman_Headshot.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/shaikh-ibrahim-noman/"
+  - label: GitHub
+    url: "https://github.com/Ibrahim581"
+output:
+  postcards::solana
+---
+ 
+## Description
+
+Ibrahim Noman is an aspiring Data Scientist studying Statistics and Data Science at the University of Texas at Austin. He has experience working in various data roles in the energy industry. He is interested in AI and its implications in various industries. Outside of his professional field, he enjoys playing basketball and watching the Texas Longhorns Football Team.
+
+## Education
+
+**The University of Texas at Austin** | Austin, Texas, United States
+
+**B.S Statistics and Data Science** | August 2022 - May 2026
+
+## Experience
+
+**Constellation Energy** | Data Scientist (Internship) | Summer 2024 and Summer 2025
+
+**Welligence Energy Analytics** | Data Scientist (Internship) | January 2024 - April 2024
+
+**Texas Facilities Commission** | Data Analyst (Internship) | August 2023 - November 2023
+
+**The University of Texas at Austin** | Undergraduate Researcher (Bioinformatics) | January 2023 - April 2023
+
+## Interests
+
+- Time-Series Forecasting
+- Ensemble Modeling
+- MLOps
+- Cybersecurity and Risk Management
+
+
+
+```{r, echo = FALSE, results = 'asis'}
+cat("Last updated:", format(Sys.time(), "%B %d, %Y"))
+```
+
