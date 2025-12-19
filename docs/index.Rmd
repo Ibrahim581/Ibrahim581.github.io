@@ -12,31 +12,60 @@ output:
  
 ## Description
 
-Ibrahim Noman is an aspiring Data Scientist studying Statistics and Data Science at the University of Texas at Austin. He has experience working in various data roles in the energy industry. He is interested in AI and its implications in various industries. Outside of his professional field, he enjoys playing basketball and watching the Texas Longhorns Football Team.
+Hi, I’m Ibrahim. I’m a Statistics and Data Science undergraduate at UT Austin (minors in Computer Science and & Risk Management). I’ve worked as a Data Science Intern in the energy industry, building machine learning models, data pipelines, and decision-support tools used by business and operations teams.
+
+My interests are in applied machine learning, LLM-powered applications, and data systems that drive real-world decisions across energy, finance, and consumer products.
 
 ## Education
 
-**The University of Texas at Austin** | Austin, Texas, United States
+**The University of Texas at Austin**  
+B.S. Statistics and Data Science — May 2026  
+Minors/Certificates: Computer Science & Risk Management  
 
-**B.S Statistics and Data Science** | August 2022 - May 2026
+Relevant Coursework: Machine Learning, Databases, Data Engineering, Statistical Modeling, Data Visualization
 
 ## Experience
 
-**Constellation Energy** | Data Scientist (Internship) | Summer 2024 and Summer 2025
+**Constellation Energy** — Data Science Intern  
+- Improved workforce forecasting accuracy by 40% through scalable optimization models  
+- Built analytics and dashboards used by management for staffing and productivity decisions  
+- Designed ML evaluation frameworks to communicate precision–recall trade-offs to stakeholders  
 
-**Welligence Energy Analytics** | Data Scientist (Internship) | January 2024 - April 2024
+**Welligence Energy Analytics** — Data Science Intern  
+- Built SQL + R ETL pipelines for 200+ countries using Docker  
+- Improved geospatial data accuracy by identifying and resolving anomalies  
 
-**Texas Facilities Commission** | Data Analyst (Internship) | August 2023 - November 2023
+**University of Texas at Austin** — Undergraduate Researcher (Bioinformatics)  
+- Applied PCA, DAPC, and differential gene expression analysis across 100k+ genes  
+- Built phylogenetic models for evolutionary trait inference  
 
-**The University of Texas at Austin** | Undergraduate Researcher (Bioinformatics) | January 2023 - April 2023
+## Projects
+
+[**Voice Emotion Detection App**](https://emotion-detect.streamlit.app/)  
+- Built and deployed a real-time voice emotion detection app using PyTorch and Streamlit  
+- Engineered a custom CNN with Librosa preprocessing on the RAVDESS dataset  
+- Achieved 94% training and 77% validation accuracy across 8 emotion classes  
+- Deployed publicly and version-controlled via GitHub  
+
+[**Studyable – ML-Powered Study Spot Recommender**](https://github.com/Ibrahim581/Data-Science-Projects/blob/main/2024/Studyable/Studyable%20-%20Longhorn%20Learners.pdf)  
+- Led a cross-functional product team designing an ML-based recommendation system  
+- Conducted 100+ customer interviews and market research  
+- Won 1st place in a campus-wide pitch competition
 
 ## Interests
 
-- Time-Series Forecasting
-- Ensemble Modeling
-- MLOps
-- Cybersecurity and Risk Management
+Applied ML systems • LLM applications • Data engineering • Sports analytics • Energy & finance
 
+## Technical Skills
+
+**Languages:** Python, R, SQL  
+**Machine Learning:** Regression, Classification, Time Series Forecasting, NLP, Dimensionality Reduction  
+**Deep Learning:** PyTorch, TensorFlow, Keras (CNNs, audio models)  
+**Data & ML Tools:** Pandas, NumPy, Scikit-learn, Tidyverse, Librosa  
+**LLMs & AI:** Transformers, Prompt Engineering, Model Evaluation (learning RAG & agents)  
+**Data Engineering:** SQL pipelines, ETL, Docker, dbt  
+**Cloud & Platforms:** AWS, GCP, Azure, Databricks, Snowflake  
+**Visualization:** Power BI, Tableau, Shiny, Matplotlib  
 
 
 ```{r, echo = FALSE, results = 'asis'}
